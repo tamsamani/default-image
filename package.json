@@ -1,0 +1,12 @@
+{
+  "name": "default-image",
+  "version": "0.1.0",
+  "description": "a image generator for default sizes of images with a lot of options useful",
+  "repository": "https://github.com/tamsamani/default-image",
+  "author": "Mohamed Tamsamani <tamsmoha@gmail.com>",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+	  "start": "node index.js"
+  }
+}
